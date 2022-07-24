@@ -64,6 +64,7 @@
 ### GitHub Analytics 📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umutsefkansak)
+![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutsefkansak&show_icons=true)
 <br />
 <br />
 
