@@ -10,4 +10,4 @@
 
 <br />
 
-[Java]: www.java.com
+[Java]: https://www.java.com/tr/
