@@ -5,3 +5,9 @@
 - 👨‍💻 I’m a Student Engineering Student at Malatya Turgut Özal University
 - 👨‍💻 I’m currently learning Unity
 
+### 🔧 Languages and Tools:
+[<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" />][Java]
+
+<br />
+
+[Java]: www.java.com
