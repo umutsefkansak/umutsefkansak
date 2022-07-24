@@ -4,7 +4,7 @@
 ## I'm a Software Engineering Student 👨‍🎓
 - 👨‍💻 I’m a Software Engineering Student at Malatya Turgut Özal University.
 - 💪I am constantly improving myself in software.
-- 💻I’m currently learning Unity
+- 🧠I’m currently learning Unity
 
 
 
