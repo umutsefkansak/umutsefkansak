@@ -2,6 +2,6 @@
 ### Hi, I am Umut
 
 ## I'm a Software Engineering Student 👨‍🎓
-- 👨‍💻 I’m a Student Engineering Student 
-- 🌱 I’m currently learning Unity
+- 👨‍💻 I’m a Student Engineering Student at Malatya Turgut Özal University
+- 👨‍💻 I’m currently learning Unity
 
