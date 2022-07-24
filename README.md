@@ -5,6 +5,7 @@
 - 👨‍💻 I’m a Software Engineering Student at Malatya Turgut Özal University.
 - 💪I am constantly improving myself in software.
 - 🧠I’m currently learning Unity
+- ⚡Never give up.
 
 
 
