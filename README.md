@@ -24,5 +24,19 @@
 [Netbeans]: https://netbeans.apache.org/
 
 
+<br />
+
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/umut-sefkan-sak-944353236/
+[instagram]: https://www.instagram.com/umut___sak/?hl=tr
+[gmail]: mailto:umut.sefkan4@gmail.com
+
 
 
