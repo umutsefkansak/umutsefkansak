@@ -17,6 +17,6 @@
 
 [Java]: https://www.java.com/
 [Unity]: https://unity.com/
-[C]: https://unity.com/
+[C]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 
