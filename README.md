@@ -67,6 +67,7 @@ I'm Umut Sefkan Sak. Software Engineering Student
 ### GitHub Analytics 📊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=umutsefkansak)
+<br />
 ![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutsefkansak&show_icons=true)
 <br />
 <br />
