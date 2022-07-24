@@ -4,10 +4,11 @@
 
 ### Hi! Welcome to my github page 👋
 
-I am Umut Sefkan SAK.
+I'm Umut Sefkan Sak. Software Engineering Student
+
 <br />
 
-## I'm a Software Engineering Student 👨‍🎓
+## About Me:
 - 👨‍💻 I’m a Software Engineering Student at Malatya Turgut Özal University.
 - 💪I am constantly improving myself in software.
 - 🧠I’m currently learning Unity
