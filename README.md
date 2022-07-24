@@ -7,6 +7,25 @@
 
 <br />
 
+
+### 📩 Connect with me:
+
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/umut-sefkan-sak-944353236/
+[instagram]: https://www.instagram.com/umut___sak/?hl=tr
+[gmail]: mailto:umut.sefkan4@gmail.com
+
+
+
+
+
+<br />
+
 ### 🔧 Languages and Tools:
 [<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" />][Java]
 [<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />][C]
@@ -25,18 +44,6 @@
 
 
 <br />
-
-### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/umut-sefkan-sak-944353236/
-[instagram]: https://www.instagram.com/umut___sak/?hl=tr
-[gmail]: mailto:umut.sefkan4@gmail.com
 
 
 
