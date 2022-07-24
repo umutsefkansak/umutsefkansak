@@ -12,7 +12,7 @@
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="26" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" height="27" width="27" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />][gmail]
+[<img align="left" height="29" width="29" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />][gmail]
 
 <br />
 
