@@ -8,7 +8,7 @@
 ### 🔧 Languages and Tools:
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" />][Java]
 
-[<img align="left" alt="Unity" width="26px" src="https://user-images.githubusercontent.com/109917881/180661540-39a3c2b4-75ee-412e-b190-ea5e13c30d14.png" />][Unity]
+[<img align="left" alt="Unity" width="32px" src="https://user-images.githubusercontent.com/109917881/180661540-39a3c2b4-75ee-412e-b190-ea5e13c30d14.png" />][Unity]
 
 
 
