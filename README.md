@@ -2,7 +2,9 @@
 
 <br />
 
-## Hi There
+### Hi! Welcome to my github page 👋
+
+I am Umut Sefkan SAK.
 <br />
 
 ## I'm a Software Engineering Student 👨‍🎓
