@@ -20,7 +20,7 @@
 [Java]: https://www.java.com/
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
 [Unity]: https://unity.com/
-[Unity]: https://www.mysql.com/
+[MySql]: https://www.mysql.com/
 
 
 
