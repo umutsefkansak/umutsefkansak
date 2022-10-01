@@ -9,7 +9,7 @@ I'm Umut Sefkan Sak. Software Engineering Student
 <br />
 
 ## About Me:
-- 👨‍💻 I’m a Software Engineering Student at Malatya Turgut Özal University.
+- 👨‍💻 I’m a Software Engineering Student at Inonu University.
 - 💪I am constantly improving myself in software.
 - 🧠I’m currently learning Unity
 - ⚡A little progress each day adds up to big results.
