@@ -22,9 +22,8 @@ I'm Umut Sefkan Sak. Software Engineering Student
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
 [<img align="left" height="26" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/584px-Twitter-logo.svg.png" />][twitter]
 [<img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />][gmail]
 
 
@@ -34,7 +33,6 @@ I'm Umut Sefkan Sak. Software Engineering Student
 [linkedin]: https://www.linkedin.com/in/umut-sefkan-sak-944353236/
 [instagram]: https://www.instagram.com/umut___sak/?hl=tr
 [gmail]: mailto:umut.sefkan4@gmail.com
-[twitter]: https://twitter.com/umut__sak?t=UrPeSdGM1bz-J0bJLiwyMw&s=09
 
 
 
