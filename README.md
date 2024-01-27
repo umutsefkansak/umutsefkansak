@@ -47,7 +47,7 @@ I'm Umut Sefkan Sak. Software Engineering Student
 [<img align="left" alt="MySql" width="80px" src="https://dataera.com.tr/wp-content/uploads/2018/07/post_3_gorsel-1110x630.jpg" />][PostgreSql]
 [<img align="left" alt="Netbeans" width="40px" src="https://user-images.githubusercontent.com/109917881/180662042-e8841a3f-f3e9-4af3-bc73-f15974eeade3.png" />][Netbeans]<br>
 [<img align="left" alt="SpringBoot" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" />][SpringBoot]
-[<img align="left" alt="SpringBoot" width="70px" style="margin-bottom: 20"  src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kdRv-UBcZALffWQsN4ohuQ.png"/>][OpenCv]
+[<img align="left" alt="SpringBoot" width="70px" style="margin-bottom: 30"  src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*kdRv-UBcZALffWQsN4ohuQ.png"/>][OpenCv]
 
 
 <br />
