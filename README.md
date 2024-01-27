@@ -44,9 +44,9 @@ I'm Umut Sefkan Sak. Software Engineering Student
 [<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" />][Java]
 [<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />][C]
 [<img align="left" alt="Unity" width="50px" src="https://user-images.githubusercontent.com/109917881/180661540-39a3c2b4-75ee-412e-b190-ea5e13c30d14.png" />][Unity]
-[<img align="left" alt="MySql" width="85px" src="https://dataera.com.tr/wp-content/uploads/2018/07/post_3_gorsel-1110x630.jpg" />][PostgreSql]
+[<img align="left" alt="MySql" width="80px" src="https://dataera.com.tr/wp-content/uploads/2018/07/post_3_gorsel-1110x630.jpg" />][PostgreSql]
 [<img align="left" alt="Netbeans" width="40px" src="https://user-images.githubusercontent.com/109917881/180662042-e8841a3f-f3e9-4af3-bc73-f15974eeade3.png" />][Netbeans]
-[<img align="left" alt="SpringBoot" width="40px" src="https://miro.medium.com/v2/resize:fit:716/1*98O4Gb5HLSlmdUkKg1DP1Q.png" />][SpringBoot]
+[<img align="left" alt="SpringBoot" width="40px" src="https://banner2.cleanpng.com/20180328/ace/kisspng-spring-framework-representational-state-transfer-j-spring-5abb1a637c6711.3394662515222114275096.jpg" />][SpringBoot]
 
 
 <br />
