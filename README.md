@@ -45,7 +45,7 @@ I'm Umut Sefkan Sak. Software Engineering Student
 [<img align="left" alt="C" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />][C]
 [<img align="left" alt="Unity" width="50px" src="https://user-images.githubusercontent.com/109917881/180661540-39a3c2b4-75ee-412e-b190-ea5e13c30d14.png" />][Unity]
 [<img align="left" alt="Netbeans" width="40px" src="https://c0.klipartz.com/pngpicture/328/221/sticker-png-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-magenta-computer-programming-programming-language.png
-" />][Netbeans]
+" />][C#]
 [<img align="left" alt="MySql" width="80px" src="https://dataera.com.tr/wp-content/uploads/2018/07/post_3_gorsel-1110x630.jpg" />][PostgreSql]
 [<img align="left" alt="SpringBoot" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"/>][Intellij]
 [<img align="left" alt="Netbeans" width="40px" src="https://user-images.githubusercontent.com/109917881/180662042-e8841a3f-f3e9-4af3-bc73-f15974eeade3.png" />][Netbeans]
@@ -66,6 +66,7 @@ I'm Umut Sefkan Sak. Software Engineering Student
 [SpringBoot]: https://spring.io/
 [OpenCv]:https://opencv.org/
 [Intellij]: https://www.jetbrains.com/idea/
+[C#]:https://learn.microsoft.com/en-us/dotnet/csharp/
 <br />
 
 <br />
