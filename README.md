@@ -25,6 +25,8 @@ I'm Umut Sefkan Sak. Software Engineering Student
 [<img align="left" alt="linkedin | LinkedIn" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Gmail_2020.png" />][gmail]
 [<img align="left" height="26" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" height="26" width="26" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][kaggle]
+
 
 
 
@@ -33,6 +35,7 @@ I'm Umut Sefkan Sak. Software Engineering Student
 [linkedin]: https://www.linkedin.com/in/umut-sefkan-sak-944353236/
 [instagram]: https://www.instagram.com/umut___sak/?hl=tr
 [gmail]: mailto:umut.sefkan4@gmail.com
+[kaggle]: https://www.kaggle.com/umutsefkansak/code
 
 
 
