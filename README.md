@@ -11,7 +11,7 @@ I'm Umut Sefkan Sak. Software Engineering Student
 ## About Me:
 - 👨‍💻 I’m a Software Engineering Student at Inonu University.
 - 💪I am constantly improving myself in software.
-- 🧠I’m currently learning Unity
+- 🧠I’m currently learning machine learning
 - ⚡A little progress each day adds up to big results.
 
 
